@@ -1,3 +1,0 @@
-Flask
-urllib.requests
-bs4
